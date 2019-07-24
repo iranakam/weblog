@@ -1,0 +1,16 @@
+baseURL = "https://condescending-fermi-4bf753.netlify.com/"
+license = "MIT"
+languageCode = "ja-JP"
+title = "my note"
+theme = "tale"
+tag = "tags"
+
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+hasCJKLanguage = true
+
+[Author]
+name = "iranakam"
+
+[Params]
+Author = "iranakam"
